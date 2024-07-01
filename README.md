@@ -1,10 +1,10 @@
 Did this as part of master's program -> deep learning course 
 
-File: main.ipynb serves as the primary code repository.
+File      : main.ipynb serves as the primary code repository.
 
-Dataset: Utilizes FlyingObjectDataset_10K.zip for training and evaluation.
+Dataset   : Utilizes FlyingObjectDataset_10K.zip for training and evaluation.
 
-Objective: Aims to accurately segment and reconstruct images, demonstrating the power of U-net in computer vision applications.
+Objective : Aims to accurately segment and reconstruct images, demonstrating the power of U-net in computer vision applications.
 
 1. Read "unet_segmentation.pdf" for detailed process explanations
 
